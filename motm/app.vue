@@ -1,5 +1,5 @@
 <template>
   <div>
-    Navmyths />
+    <Navmyths />
   </div>
 </template>
